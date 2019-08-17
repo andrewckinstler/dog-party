@@ -1,0 +1,180 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+html, body {
+    font-family: "Open Sans", sans-serif;
+}
+
+header {
+  background: #75e2e6;
+  border-bottom: 3px solid #048eaa;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+  margin: 30px 0;
+}
+
+a {
+  padding: 10px;
+  display:  inline-block;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+  color: #000;
+  font-weight: 200;
+}
+
+nav {
+  float: right;
+  padding: 14px;
+}
+
+footer {
+  float: left;
+  background-color: #048eaa;
+  padding: 35px 0;
+  width: 100%;
+  display: block;
+}
+
+span {
+  font-weight: bold;
+}
+
+/* .textBox {
+    display:  inline-block;
+} */
+
+.clearfix {
+  clear: both;
+}
+
+.dog-icon {
+  height: auto;
+  width: 50px;
+  padding: 10px;
+  box-sizing: content-box;
+  display: block;
+  float: left;
+}
+
+.banner {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/dog-party-assets/park.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 550px;
+}
+
+.column {
+  width: 33%;
+  float: left;
+  padding: 30px 60px 60px 60px;
+}
+
+@media only screen and (max-width: 700px) {
+  .column {
+    width: 100%;
+
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+.banner-content {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 60px 0;
+  color: #FFF;
+}
+
+.dog-img {
+  height: 175px;
+  width: 175px;
+  border: 3px solid #048eaa;
+  border-radius: 50%;
+  background-color: gray;
+  margin: 50px auto;
+  overflow: hidden;
+}
+
+.dog-img img {
+  width: 100%;
+}
+
+.mainform {
+  height: 50px;
+  width: 350px;
+  border: none;
+}
+
+.left {
+  text-align: left;
+  margin-left: 25px;
+  margin-bottom: 5px;
+}
+
+input {
+    font-size:24px;
+}
+
+.main-button {
+  height: 50px;
+  width: 350px;
+  display: block;
+  background-color: #75e2e6;
+  font-size: 16px;
+  margin: 10px auto 0 auto;
+  color: #000;
+  border: 0px;
+}
+
+.content {
+  display: block;
+}
+
+.column .dog-img {
+  margin-bottom: 30px;
+}
+
+.form-box {
+  max-width: 300px;
+  text-align: left;
+}
+
+.social {
+  text-align: center;
+  padding-top:
+}
+
+.footer-text {
+  color: #FFF;
+  padding: 10px;
+}
+
+.social img {
+  padding: 8px;
+}
+
+
+.column-button {
+  height: 50px;
+  width: 100%;
+  color: #FFF;
+  background-color: #048eaa;
+  border-radius: 3px;
+  font-size: 16px;
+  margin-top: 30px;
+}
