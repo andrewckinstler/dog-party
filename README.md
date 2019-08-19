@@ -20,7 +20,8 @@ The original comp was
 4. White text: #ffffff
 5. Body text: #000000
 6. Font: Open Sans
-!(https://ibb.co/ZN9V78H)
+
+https://ibb.co/Xp546f9
 
 And the final design is as follows.
 !(https://ibb.co/1RS0NTg)
