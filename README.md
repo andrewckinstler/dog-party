@@ -12,3 +12,17 @@ There were some wins as far as this goes, as the only things I wasn't able to ac
 Losses include, but are not limited to, not being able to accomplish the second `<textarea>` or the CSS animations. 
 
 Thank you for your time. 
+
+The original comp was
+1. Light blue: #75e2e6
+2. Dark blue: #048eaa
+3. Background color: #ffffff
+4. White text: #ffffff
+5. Body text: #000000
+6. Font: Open Sans
+!(https://ibb.co/xGxy5mT)
+
+And the final design is as follows.
+!(https://ibb.co/1RS0NTg)
+!(https://ibb.co/8cjtTT3)
+
