@@ -24,9 +24,6 @@ The original comp was
 https://ibb.co/Xp546f9
 
 And the final design is as follows.
-!(https://ibb.co/1RS0NTg)
-!(https://ibb.co/8cjtTT3)
 
 https://ibb.co/PY2KdMJ
-https://ibb.co/Xp546f9
 https://ibb.co/ZN9V78H
