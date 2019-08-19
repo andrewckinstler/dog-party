@@ -6,7 +6,6 @@ button.addEventListener('click', function () {
     span.innerText = getInput.value;
 });
 
-
 var hideP = document.querySelector(".buttonHow");
 var toggleHow= document.querySelector(".dog-info");
 
