@@ -20,9 +20,12 @@ The original comp was
 4. White text: #ffffff
 5. Body text: #000000
 6. Font: Open Sans
-!(https://ibb.co/xGxy5mT)
+!(https://ibb.co/ZN9V78H)
 
 And the final design is as follows.
 !(https://ibb.co/1RS0NTg)
 !(https://ibb.co/8cjtTT3)
 
+https://ibb.co/PY2KdMJ
+https://ibb.co/Xp546f9
+https://ibb.co/ZN9V78H
